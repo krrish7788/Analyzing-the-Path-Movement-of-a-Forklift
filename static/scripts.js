@@ -1,9 +1,9 @@
-document.getElementById('username').value = 'krrish';
-document.getElementById('password').value = '1000';
-document.getElementById('project-title').value = 'project 1';
-document.getElementById('unit').value = 15;
-document.getElementById('stop-name').value = 'stop point 1';
-document.getElementById('duration').value = 20000;
+//document.getElementById('username').value = 'krrish';
+//document.getElementById('password').value = '1000';
+//document.getElementById('project-title').value = 'project 1';
+//document.getElementById('unit').value = 15;
+//document.getElementById('stop-name').value = 'stop point 1';
+//document.getElementById('duration').value = 20000;
 
 
 document.getElementById('login-form').addEventListener('submit', function(event) {
